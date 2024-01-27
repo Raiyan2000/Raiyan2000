@@ -1,6 +1,10 @@
 ### Hi, I'm Raiyan Islam 👋
 
-- 🔭 I’m currently working on ...
+- 💻	I'm a recent computer engineering graduate from the University of Pittsburgh 
+- 🔭 I have been primarily coding in C++ for 3 years
+- 🐍 I love to create games in Python
+- ⌨️ Currently learning HTML, CSS, and Javascript for my digital portfolio
+- ⚡ Fun fact: Although I love C++, Java took over my senior design project
 
 <!--
 **Raiyan2000/Raiyan2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
