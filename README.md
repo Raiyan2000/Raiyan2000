@@ -1,8 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Raiyan Islam
+Hi! My name is Raiyan Islam ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================
 
-Computer Engineer
------------------
 
 - 💻	I'm a recent computer engineering graduate from the University of Pittsburgh 
 - 🔭 I have been primarily coding in C++ for 3 years
@@ -32,8 +30,6 @@ I first experienced programming when I got into college without any knowledge of
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Raiyan2000"><img src="https://github-readme-stats.vercel.app/api?username=Raiyan2000&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Raiyan2000's GitHub stats" /></a>
-
-<a href="http://www.github.com/Raiyan2000"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Raiyan2000&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <b>Top Repositories</b>
 
